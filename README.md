@@ -1,1 +1,1 @@
-# "Editado desde la web de gitgub".
+# "Editado desde la web de github".
